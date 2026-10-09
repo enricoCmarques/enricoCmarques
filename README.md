@@ -1,25 +1,29 @@
 
+
 <div align="center">
 
-# 👾 Enrico Carvalho Marques
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:123C69&height=120&section=header&text=Enrico%20Carvalho%20Marques&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Enrico Carvalho Marques"/>
 
-### `Cybersecurity • DevSecOps • Secure Development`
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=53E6EF&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+DevSecOps;Secure+Development+%7C+AppSec;Python+%7C+Security+Automation;Cloud+Security+%7C+CI%2FCD;Learning.+Building.+Securing." alt="Animação de texto: Cybersecurity, DevSecOps, AppSec e automação"/>
+</a>
 
-Construindo uma base em **DevSecOps**, unindo desenvolvimento seguro, automação, infraestrutura e cibersegurança.
+<br/>
 
 <a href="https://github.com/enricoCmarques">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/enricocarvalhomarques/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:enricocavalhomarques@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:123C69&height=3" width="100%"/>
-
 </div>
+
+---
+
 
 ## `./whoami` — Sobre mim
 
@@ -103,21 +107,18 @@ Desenvolvimento de uma aplicação web com HTML, CSS, JavaScript, PHP e MySQL, a
 
 **Competências relacionadas:** desenvolvimento seguro, validação de entradas e mitigação de vulnerabilidades web.
 
-## `./devsecops-roadmap` — Minha trilha de estudos
+## `./devsecops` — Desenvolvimento seguro e automação
 
-Estou direcionando meus próximos estudos para as etapas abaixo:
+Minha formação em desenvolvimento de sistemas e cibersegurança me permite trabalhar com programação, redes e segurança de aplicações. Quero aplicar essa base para desenvolver soluções mais seguras e automatizar processos de segurança ao longo do ciclo de desenvolvimento.
 
-- [ ] **Git e Linux:** aprofundar comandos, permissões e administração de ambientes.
-- [ ] **Docker:** containers, imagens seguras e redução da superfície de ataque.
-- [ ] **CI/CD:** construir pipelines com GitHub Actions.
-- [ ] **SAST:** integrar análise estática de código ao pipeline.
-- [ ] **SCA:** identificar dependências vulneráveis.
-- [ ] **DAST:** estudar testes dinâmicos de segurança em aplicações próprias.
-- [ ] **Secrets Management:** evitar exposição de chaves e credenciais.
-- [ ] **IaC:** aprender Terraform e análise de segurança de infraestrutura como código.
-- [ ] **Cloud Security:** aprofundar IAM, permissões e segurança no Azure.
-- [ ] **Observabilidade:** logs, monitoramento e resposta a incidentes.
+- 🔐 **Segurança de aplicações:** conceitos de AppSec, OWASP Top 10 e desenvolvimento seguro.
+- 🐍 **Automação com Python:** scripts para análise de portas, redes e monitoramento de recursos.
+- 🌐 **Redes e sistemas:** TCP/IP, Wireshark, Linux e Windows.
+- 💻 **Desenvolvimento:** JavaScript, Node.js, Express, PHP, HTML, CSS e SQL.
+- ☁️ **Aplicações em nuvem:** experiência acadêmica com Azure App Service e Azure SQL no projeto NuvemPay.
+- 🧪 **Prática em segurança:** laboratórios controlados de Red Team e conceitos de defesa.
 
+**Meu próximo passo:** aprofundar a integração entre desenvolvimento, automação e segurança, direcionando meus projetos para práticas de DevSecOps, pipelines de CI/CD e segurança em ambientes de nuvem.
 ## `./education` — Formação
 
 🎓 **Tecnólogo em Cibersegurança**  
