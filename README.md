@@ -1,110 +1,40 @@
 
-<!--
-  Enrico Carvalho Marques | GitHub Profile README
-  Repositório: enricoCmarques/enricoCmarques
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:07111F,50:123A70,100:00D9FF&text=ENRICO%20CARVALHO&fontColor=FFFFFF&fontSize=38&fontAlignY=42&desc=MARQUES%20%7C%20CYBERSECURITY&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Enrico Carvalho Marques — Cybersecurity" />
+# 👾 Enrico Carvalho Marques
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Ciberseguran%C3%A7a+%7C+AppSec;Red+Team+%2B+Blue+Team+Labs;Python+%7C+Network+Security;Secure+Development+%7C+Cloud" alt="Especialidades animadas" />
+### `Cybersecurity • DevSecOps • Secure Development`
 
-<br/>
+Construindo uma base em **DevSecOps**, unindo desenvolvimento seguro, automação, infraestrutura e cibersegurança.
 
 <a href="https://github.com/enricoCmarques">
-  <img src="https://img.shields.io/badge/GitHub-enricoCmarques-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/enricocarvalhomarques/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:enricocavalhomarques@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:123C69&height=3" width="100%"/>
 
 </div>
 
----
+## `./whoami` — Sobre mim
 
-## `whoami` — Sobre mim
+Sou técnico em **Análise e Desenvolvimento de Sistemas** e graduando em **Cibersegurança**. Estou direcionando meus estudos para DevSecOps, buscando integrar práticas de segurança ao ciclo de desenvolvimento e à infraestrutura.
 
-```python
-class EnricoCarvalhoMarques:
-    def __init__(self):
-        self.area = "Cibersegurança"
-        self.formacao = [
-            "Técnico em Análise e Desenvolvimento de Sistemas",
-            "Tecnólogo em Cibersegurança (em andamento)"
-        ]
-        self.interesses = [
-            "Application Security (AppSec)",
-            "Red Team e Blue Team",
-            "Segurança de Redes",
-            "Automação com Python",
-            "Desenvolvimento Seguro",
-            "Cloud Security"
-        ]
+Tenho experiência prática acadêmica com desenvolvimento web, automação em Python, análise de redes e laboratórios de segurança ofensiva e defensiva.
 
-    def objetivo(self):
-        return "Construir, testar e proteger sistemas."
-```
+Meu objetivo é evoluir na construção de pipelines seguros, automação de verificações, proteção de aplicações e ambientes em nuvem.
 
-Sou técnico em Desenvolvimento de Sistemas e graduando em Cibersegurança. Meu foco é conectar desenvolvimento de software e segurança da informação por meio de projetos práticos, automação e laboratórios controlados.
-
-Tenho interesse em segurança ofensiva e defensiva, análise de redes e aplicação de boas práticas de segurança desde as primeiras etapas do desenvolvimento. Também estudo referências como o **OWASP Top 10** e desenvolvo ferramentas próprias para apoiar análises técnicas.
-
-> 🔐 Acredito que segurança não deve ser adicionada apenas no final: ela deve fazer parte de todo o ciclo de desenvolvimento.
-
----
-
-## `./featured-projects` — Projetos em destaque
-
-### ☁️ NuvemPay — Plataforma acadêmica de pagamentos simulados
-
-<a href="https://github.com/enricoCmarques/NuvemPay_Projeto-integrador">
-  <img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório NuvemPay"/>
-</a>
-
-Plataforma acadêmica que simula uma experiência de banco digital para demonstrar desenvolvimento web seguro, persistência de dados, arquitetura em nuvem e avaliação de segurança.
-
-**Principais funcionalidades e controles documentados:**
-
-- Autenticação, gerenciamento de sessão e opção de autenticação em dois fatores (TOTP).
-- Transferências Pix fictícias com PIN e histórico protegido por cadeia HMAC.
-- Loja virtual com validação de preços, estoque e saldo no backend.
-- Consultas SQL parametrizadas e operações transacionais.
-- Controles de CSRF, Content Security Policy (CSP), rate limiting e controle de acesso baseado em papéis (RBAC).
-- Testes automatizados com `node:test`.
-
-**Stack:** Node.js, Express, JavaScript, HTML, CSS, Azure SQL e ferramentas de segurança.
-
-> ⚠️ Projeto demonstrativo. Não processa dinheiro real e não deve receber credenciais, cartões ou dados pessoais reais.
-
----
-
-### 🐍 Port Scanner & Network Monitoring
-
-Ferramenta de automação desenvolvida em Python para varredura de portas e análise de serviços de rede, acompanhada de scripts para monitoramento de anomalias de CPU e memória.
-
-**Stack:** Python, `socket`, redes TCP/IP e monitoramento.
-
----
-
-### 🛡️ Simulação de Pentest em Laboratório
-
-Prática de segurança ofensiva em laboratório, envolvendo coleta de informações, enumeração de serviços e mapeamento da arquitetura de rede.
-
-**Stack:** Linux, FTP e ferramentas de Red Team.
-
----
-
-### 🌐 Sistema Web Seguro — TCC
-
-Projeto de desenvolvimento Full Stack com foco em Application Security, sanitização de entradas e mitigação de vulnerabilidades relacionadas ao OWASP Top 10.
-
-**Stack:** HTML, CSS, JavaScript, PHP e MySQL.
-
----
+- 🔐 **Foco:** DevSecOps, AppSec e Secure Coding
+- ⚙️ **Interesses:** CI/CD, automação de segurança e infraestrutura como código
+- ☁️ **Cloud:** estudos e projetos envolvendo tecnologias Microsoft Azure
+- 🐍 **Automação:** Python e scripts para tarefas técnicas
+- 🧪 **Prática:** projetos acadêmicos e laboratórios controlados
+- 📚 **Atualmente:** desenvolvendo minha base para atuar profissionalmente com DevSecOps
 
 ## `./tech-stack` — Tecnologias e ferramentas
 
@@ -112,95 +42,121 @@ Projeto de desenvolvimento Full Stack com foco em Application Security, sanitiza
 
 ### 🔐 Cybersecurity & Networking
 
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" alt="Linux e Windows"/>
+<img src="https://skillicons.dev/icons?i=linux,windows" height="48" alt="Linux e Windows"/>
+<br/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="28" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-334155?style=for-the-badge" height="28" alt="TCP/IP"/>
+<img src="https://img.shields.io/badge/AppSec-6D28D9?style=for-the-badge" height="28" alt="Application Security"/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-245B9E?style=for-the-badge" alt="TCP/IP"/>
-<img src="https://img.shields.io/badge/AppSec-Secure%20Coding-007ACC?style=for-the-badge" alt="AppSec"/>
-<img src="https://img.shields.io/badge/IAM-Access%20Management-6C3483?style=for-the-badge" alt="IAM"/>
+### ⚙️ DevSecOps & Automation
+
+<img src="https://skillicons.dev/icons?i=python,bash,docker,githubactions,git,github" height="48" alt="Python, Bash, Docker, GitHub Actions, Git e GitHub"/>
 
 ### 💻 Programming & Web Development
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,php,html,css,nodejs,express&theme=dark" alt="Tecnologias de programação"/>
+<img src="https://skillicons.dev/icons?i=python,js,java,php,html,css,nodejs,express" height="48" alt="Linguagens e tecnologias web"/>
 
-### 🗄️ Databases, Cloud & Tools
+### ☁️ Cloud, Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=mysql,azure,git,github,figma&theme=dark" alt="Banco de dados, cloud e ferramentas"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Azure SQL"/>
+<img src="https://skillicons.dev/icons?i=azure,mysql,github,git" height="48" alt="Azure, MySQL, GitHub e Git"/>
+<br/>
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="Azure SQL"/>
 
 </div>
 
----
+> Logos de Docker, GitHub Actions e Bash representam tecnologias de interesse para a trilha DevSecOps; não significam, por si só, experiência prática consolidada. Adicione ou mantenha essas tecnologias conforme começar a utilizá-las.
 
-## `./education` — Formação acadêmica
+## `./projects` — Projetos em destaque
+
+### 🔒 NuvemPay — Plataforma de pagamentos simulados
+
+Projeto acadêmico que combina desenvolvimento web, persistência de dados em nuvem e controles de segurança.
+
+**Tecnologias:** Node.js, Express, Azure SQL, JavaScript e SQL.
+
+**Práticas implementadas no projeto:**
+- Autenticação e opção de autenticação em dois fatores (TOTP).
+- Cookies de sessão protegidos e controles de segurança web.
+- Consultas SQL parametrizadas e transações.
+- Proteções como CSRF, CSP e limitação de tentativas.
+- Testes automatizados e histórico de operações com HMAC.
+
+🔗 [Acessar repositório](https://github.com/enricoCmarques/NuvemPay_Projeto-integrador)
+
+*Projeto demonstrativo com contas e transações fictícias, sem movimentação de dinheiro real.*
+
+### 🐍 Python Port Scanner & Monitoring
+
+Scripts para varredura de portas em ambientes autorizados e monitoramento de recursos, como CPU e memória.
+
+**Competências relacionadas:** Python, sockets, redes, automação e análise técnica.
+
+### 🛡️ Laboratório de Pentest
+
+Práticas em ambiente controlado envolvendo coleta de informações, enumeração de serviços, FTP, Linux e mapeamento de arquitetura.
+
+**Competências relacionadas:** fundamentos de segurança ofensiva, redes e identificação de superfícies de ataque.
+
+### 🌐 Sistema Web Seguro — TCC
+
+Desenvolvimento de uma aplicação web com HTML, CSS, JavaScript, PHP e MySQL, aplicando conceitos de AppSec e referências do OWASP Top 10.
+
+**Competências relacionadas:** desenvolvimento seguro, validação de entradas e mitigação de vulnerabilidades web.
+
+## `./devsecops-roadmap` — Minha trilha de estudos
+
+Estou direcionando meus próximos estudos para as etapas abaixo:
+
+- [ ] **Git e Linux:** aprofundar comandos, permissões e administração de ambientes.
+- [ ] **Docker:** containers, imagens seguras e redução da superfície de ataque.
+- [ ] **CI/CD:** construir pipelines com GitHub Actions.
+- [ ] **SAST:** integrar análise estática de código ao pipeline.
+- [ ] **SCA:** identificar dependências vulneráveis.
+- [ ] **DAST:** estudar testes dinâmicos de segurança em aplicações próprias.
+- [ ] **Secrets Management:** evitar exposição de chaves e credenciais.
+- [ ] **IaC:** aprender Terraform e análise de segurança de infraestrutura como código.
+- [ ] **Cloud Security:** aprofundar IAM, permissões e segurança no Azure.
+- [ ] **Observabilidade:** logs, monitoramento e resposta a incidentes.
+
+## `./education` — Formação
 
 🎓 **Tecnólogo em Cibersegurança**  
 Faculdade SENAI de São Caetano do Sul  
-`Fev/2026 – Dez/2027` · Em andamento
+*Em andamento — 2026–2027*
 
 🎓 **Técnico em Análise e Desenvolvimento de Sistemas**  
 SENAI Mogi das Cruzes  
-`Jan/2024 – Dez/2025` · Concluído
+*Concluído — 2024–2025*
 
-### 📚 Cursos e certificações
+📚 **Outros estudos**
+- Integração e monitoramento de sistemas IoT — Wegnology.
+- Análise de dados com Power BI e JavaScript.
+- Preparação para a certificação ISC² Certified in Cybersecurity (CC).
 
-- **Wegnology (IoT):** integração e monitoramento de sistemas — concluído.
-- **Análise de Dados com Power BI / JS:** cursos concluídos, conforme formação informada.
-- **ISC² Certified in Cybersecurity (CC):** em preparação; certificação ainda não obtida.
-
----
-
-## `./github-stats` — GitHub em números
+## `./github-stats` — Atividade
 
 <div align="center">
 
-<a href="https://github.com/enricoCmarques">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enricoCmarques&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-</a>
-<a href="https://github.com/enricoCmarques">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoCmarques&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=enricoCmarques&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enricoCmarques&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
 
-<img src="https://streak-stats.demolab.com?user=enricoCmarques&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enricoCmarques&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
 
 </div>
 
----
-
-## `./currently-learning` — Em desenvolvimento
-
-- 🔎 Aprofundamento em segurança ofensiva e defensiva em laboratórios autorizados.
-- 🔐 Estudo para a certificação ISC² Certified in Cybersecurity (CC).
-- 🐍 Automação de tarefas de análise e monitoramento com Python.
-- ☁️ Desenvolvimento seguro e conceitos de segurança em nuvem.
-- 🛡️ Aplicação de boas práticas de AppSec em projetos web.
-
----
-
-## `./contact` — Entre em contato
+## `./contact` — Vamos nos conectar?
 
 <div align="center">
 
-<a href="https://github.com/enricoCmarques">
-  <img src="https://img.shields.io/badge/GitHub-enricoCmarques-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/enricocarvalhomarques/">
-  <img src="https://img.shields.io/badge/LinkedIn-Enrico%20Carvalho%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:enricocavalhomarques@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-</a>
+Se você também se interessa por **DevSecOps, segurança de aplicações, automação e cloud**, vamos trocar conhecimentos!
 
-<br/><br/>
+<a href="https://github.com/enricoCmarques">GitHub</a> •
+<a href="https://www.linkedin.com/in/enricocarvalhomarques/">LinkedIn</a> •
+<a href="mailto:enricocavalhomarques@gmail.com">E-mail</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:123A70&height=100&section=footer" width="100%" alt="Rodapé decorativo azul"/>
+<br/>
 
-**“Build securely. Think critically. Keep learning.”**
-
-<sub>Desenvolvido por Enrico Carvalho Marques · Cibersegurança & Desenvolvimento Seguro</sub>
+`Automate • Secure • Build • Improve`
 
 </div>
